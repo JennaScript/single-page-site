@@ -149,7 +149,8 @@ nav ul a:hover {
     padding: 0;
     display: flex;
     justify-content: center;
-    background-image: url(images/cloudshaze.jpg)
+    background-image: url(images/cloudshaze.jpg);
+    background-size: cover;
 }
 
 #golden-retriever > h2 {
