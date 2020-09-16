@@ -1,4 +1,4 @@
-Single Page Site
+SINGLE PAGE SITE
 
 Web 1.0 Assignment
 
