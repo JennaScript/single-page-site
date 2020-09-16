@@ -270,19 +270,20 @@ nav ul a:hover {
     box-shadow:0 0 22px rgba(0, 0, 0, 0.44);
 }
 
-
 #contact {
-    background-image: url(images/cloudscontact.jpg);
+    background-image: url(images/starrynight.jpeg);
     background-size: cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-family: Luminari; fantasy;
+    font-family: Luminari, fantasy;
+    color: white;
 }
 
 #contact > form {
     display: flex;
+    color: white;
 }
 
 #contact > form > div {
@@ -304,7 +305,7 @@ label span {
 }
 
 input, textarea {
-    border: 1px solid #000;
+    border: 1px solid white;
     padding: 0.5em;
     margin: 0 2em 0 0;
     width: 20em;
@@ -324,7 +325,7 @@ form button {
     align-self: flex-end;
     padding: 0.5em 1em;
     background-color: purple;
-    color: #fff;
+    color: white;
     border: none;
     font-family: Luminari, fantasy;
 }
