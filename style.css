@@ -109,7 +109,7 @@ nav ul a:hover {
     padding: 0;
     display: flex;
     justify-content: center;
-    background-image: url(images/cloudsblue.jpg)
+    background-image: url(images/cloudsblue.jpg);
 }
 
 #rottweiler > h2 {
@@ -190,7 +190,7 @@ nav ul a:hover {
     padding: 0;
     display: flex;
     justify-content: center;
-    background-image: url(images/cloudspastel.jpg)
+    background-image: url(images/cloudspastel.jpg);
 }
 
 #beagle > h2 {
